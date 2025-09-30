@@ -1,1 +1,3 @@
 This is an ASM function that calls the Kernel32 Beep API and plays through an array of frequency-duration pairs. 
+
+Commenting is heavy, mostly so that I am able to learn and reference as I go.
